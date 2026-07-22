@@ -1,0 +1,8 @@
+{% include base_path %}
+{% if page.lang_alternate %}
+  <li class="masthead__menu-item persist">
+    <a href="{{ base_path }}{{ page.lang_alternate }}">
+      {% if page.locale == 'de' %}English{% else %}Deutsch{% endif %}
+    </a>
+  </li>
+{% endif %}
