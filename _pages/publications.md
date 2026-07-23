@@ -9,34 +9,103 @@ lang_alternate: /de/publikationen/
 
 ## Journal Articles
 
-1. Arturo Espinosa Baro, Michael Farber, **Stephan Mescher**, John Oprea, "Sequential topological complexity of aspherical spaces and sectional categories of subgroup inclusions", *Mathematische Annalen* 391 (2024), 4555–4605.
-2. **Stephan Mescher**, Maximilian Stegemeyer, "Geodesic complexity via fibered decompositions of cut loci", *Journal of Applied and Computational Topology* 7, no. 3 (2023), 397–425.
-3. **Stephan Mescher**, Maximilian Stegemeyer, "Geodesic complexity of homogeneous Riemannian manifolds", *Algebraic & Geometric Topology* 23, no. 5 (2023), 2221–2270.
-4. **Stephan Mescher**, "Spherical complexities with applications to closed geodesics", *Algebraic & Geometric Topology* 21, no. 2 (2021), 1021–1074.
-5. **Stephan Mescher**, "Existence results for closed geodesics via spherical complexities", *Calculus of Variations and Partial Differential Equations* 59, no. 5 (2020), article no. 55.
-6. Michael Farber, **Stephan Mescher**, "On the topological complexity of aspherical spaces", *Journal of Topology and Analysis* 12, no. 2 (2020), 293–319.
-7. Mark Grant, **Stephan Mescher**, "Topological complexity of symplectic manifolds", *Mathematische Zeitschrift* 295 (2020), 667–679.
-8. **Stephan Mescher**, "Oriented robot motion planning in Riemannian manifolds", *Topology and its Applications* 258 (2019), 1–20.
+<ul class="pub-list">
+<li>
+<strong>Sequential topological complexity of aspherical spaces and sectional categories of subgroup inclusions</strong><br>
+(joint work with Arturo Espinosa Baro, Michael Farber and John Oprea)<br>
+<em>Mathematische Annalen</em> 391 (2024), 4555–4605.
+</li>
+<li>
+<strong>Geodesic complexity via fibered decompositions of cut loci</strong><br>
+(joint work with Maximilian Stegemeyer)<br>
+<em>Journal of Applied and Computational Topology</em> 7, no. 3 (2023), 397–425.
+</li>
+<li>
+<strong>Geodesic complexity of homogeneous Riemannian manifolds</strong><br>
+(joint work with Maximilian Stegemeyer)<br>
+<em>Algebraic & Geometric Topology</em> 23, no. 5 (2023), 2221–2270.
+</li>
+<li>
+<strong>Spherical complexities with applications to closed geodesics</strong><br>
+<em>Algebraic & Geometric Topology</em> 21, no. 2 (2021), 1021–1074.
+</li>
+<li>
+<strong>Existence results for closed geodesics via spherical complexities</strong><br>
+<em>Calculus of Variations and Partial Differential Equations</em> 59, no. 5 (2020), article no. 55.
+</li>
+<li>
+<strong>On the topological complexity of aspherical spaces</strong><br>
+(joint work with Michael Farber)<br>
+<em>Journal of Topology and Analysis</em> 12, no. 2 (2020), 293–319.
+</li>
+<li>
+<strong>Topological complexity of symplectic manifolds</strong><br>
+(joint work with Mark Grant)<br>
+<em>Mathematische Zeitschrift</em> 295 (2020), 667–679.
+</li>
+<li>
+<strong>Oriented robot motion planning in Riemannian manifolds</strong><br>
+<em>Topology and its Applications</em> 258 (2019), 1–20.
+</li>
+</ul>
 
 ## Books
 
-1. **Stephan Mescher**, *Überblickswissen Mathematik – Ein Crashkurs für Studierende anderer Fächer*, Springer Spektrum, Berlin/Heidelberg, 2025.
-2. **Stephan Mescher**, *Perturbed Gradient Flow Trees and A-infinity Algebra Structures in Morse Cohomology*, Atlantis Studies in Dynamical Systems, Vol. 6, Atlantis Press (Paris) / Springer, Cham, 2018.
+<ul class="pub-list">
+<li>
+<strong>Überblickswissen Mathematik – Ein Crashkurs für Studierende anderer Fächer</strong><br>
+Springer Spektrum, Berlin/Heidelberg, 2025.
+</li>
+<li>
+<strong>Perturbed Gradient Flow Trees and A-infinity Algebra Structures in Morse Cohomology</strong><br>
+Atlantis Studies in Dynamical Systems, Vol. 6, Atlantis Press (Paris) / Springer, Cham, 2018.
+</li>
+</ul>
 
 ## Book Chapters
 
-1. **Stephan Mescher**, "Geometric and topological properties of manifolds in robot motion planning", in: Michael Farber, Jesús González (eds.), *Topology and AI*, EMS Series in Industrial and Applied Mathematics, vol. 4, EMS Press, Berlin, 2024.
+<ul class="pub-list">
+<li>
+<strong>Geometric and topological properties of manifolds in robot motion planning</strong><br>
+in: Michael Farber, Jesús González (eds.), <em>Topology and AI</em>, EMS Series in Industrial and Applied Mathematics, vol. 4, EMS Press, Berlin, 2024.
+</li>
+</ul>
 
 ## Preprints
 
-1. **Stephan Mescher**, Maximilian Stegemeyer, "Approaches to critical point theory via sequential and parametrized topological complexity", submitted, [arXiv:2411.01980](https://arxiv.org/abs/2411.01980), 2024.
-2. **Stephan Mescher**, "A-infinity algebras and their Hochschild homology", [arXiv:1601.03963](https://arxiv.org/abs/1601.03963), 2016.
+<ul class="pub-list">
+<li>
+<strong>Approaches to critical point theory via sequential and parametrized topological complexity</strong><br>
+(joint work with Maximilian Stegemeyer)<br>
+submitted, <a href="https://arxiv.org/abs/2411.01980">arXiv:2411.01980</a>, 2024.
+</li>
+<li>
+<strong>A-infinity algebras and their Hochschild homology</strong><br>
+<a href="https://arxiv.org/abs/1601.03963">arXiv:1601.03963</a>, 2016.
+</li>
+</ul>
 
 ## Theses
 
-1. **Stephan Mescher**, "Hochschild homology of Morse cochain complexes and free loop spaces", PhD thesis, Leipzig University, 909 pp., 2016. Supervisor: Prof. Dr. Matthias Schwarz.
-2. **Stephan Mescher**, "Der Spektralfluss selbstadjungierter elliptischer Operatoren", Diploma thesis, Bielefeld University, 90 pp., 2008. Supervisor: Dr. Kim Frøyshov.
+<ul class="pub-list">
+<li>
+<strong>Hochschild homology of Morse cochain complexes and free loop spaces</strong><br>
+PhD thesis, Leipzig University, 909 pp., 2016. Supervisor: Prof. Dr. Matthias Schwarz.
+</li>
+<li>
+<strong>Der Spektralfluss selbstadjungierter elliptischer Operatoren</strong><br>
+Diploma thesis, Bielefeld University, 90 pp., 2008. Supervisor: Dr. Kim Frøyshov.
+</li>
+</ul>
 
----
+<p>My ORCID record is <a href="https://orcid.org/0000-0003-3440-2131">0000-0003-3440-2131</a>; a list of publications is also maintained on <a href="https://www.researchgate.net/profile/Stephan-Mescher">ResearchGate</a>.</p>
 
-My ORCID record is [0000-0003-3440-2131](https://orcid.org/0000-0003-3440-2131); a list of publications is also maintained on [ResearchGate](https://www.researchgate.net/profile/Stephan-Mescher).
+<style>
+.pub-list {
+  list-style-type: disc;
+  padding-left: 1.25em;
+}
+.pub-list li {
+  margin-bottom: 1.25em;
+}
+</style>

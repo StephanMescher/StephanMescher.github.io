@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic homepage. I am a mathematician working as a permanent research associate (wissenschaftlicher Mitarbeiter) at the **Institute of Mathematics, Martin Luther University Halle-Wittenberg**, in the group of Prof. Dr. Nils Waterstraat.
+Welcome to my academic homepage. I am a mathematician working as a permanent research associate at the **Institute of Mathematics, Martin Luther University Halle-Wittenberg**, in the group of Prof. Dr. Nils Waterstraat.
 
 My research is in the fields of geometry and topology of manifolds, with a particular focus on topological complexity and topological methods in the calculus of variations. You can find more about my work, teaching and talks using the menu above; the site is also available [in German](/de/).
 
@@ -19,5 +19,6 @@ My research is in the fields of geometry and topology of manifolds, with a parti
 - **Position:** Wissenschaftlicher Mitarbeiter, Institute of Mathematics, Martin Luther University Halle-Wittenberg
 - **Research interests:** Geometry and topology of manifolds, topological complexity, topological methods in the calculus of variations
 - **PhD:** Dr. rer. nat. in Mathematics, Leipzig University, 2017
+- **Habilitation:** Faculty of Natural Sciences II, Martin Luther University Halle-Wittenberg, 2026
 
 Use the navigation above to browse my [research interests](/research/), [publications](/publications/), [teaching](/teaching/), [talks](/talks/), full [CV](/cv/), and [contact details](/contact/).

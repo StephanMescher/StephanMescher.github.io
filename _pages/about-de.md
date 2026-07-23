@@ -16,5 +16,6 @@ Meine Forschung liegt im Bereich der Geometrie und Topologie von Mannigfaltigkei
 - **Position:** Wissenschaftlicher Mitarbeiter, Institut für Mathematik, Martin-Luther-Universität Halle-Wittenberg
 - **Forschungsinteressen:** Geometrie und Topologie von Mannigfaltigkeiten, topologische Komplexität, topologische Methoden der Variationsrechnung
 - **Promotion:** Dr. rer. nat. in Mathematik, Universität Leipzig, 2017
+- **Habilitation:** Naturwissenschaftliche Fakultät II, Martin-Luther-Universität Halle-Wittenberg, 2026
 
 Nutzen Sie die Navigation oben, um zu meinen [Forschungsthemen](/de/forschung/), [Publikationen](/de/publikationen/), meiner [Lehre](/de/lehre/), meinen [Vorträgen](/de/vortraege/), meinem vollständigen [CV](/de/lebenslauf/) und den [Kontaktdaten](/de/kontakt/) zu gelangen.
