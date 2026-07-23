@@ -13,39 +13,47 @@ lang_alternate: /publications/
 <li>
 <strong>Sequential topological complexity of aspherical spaces and sectional categories of subgroup inclusions</strong><br>
 (joint work with Arturo Espinosa Baro, Michael Farber and John Oprea)<br>
-<em>Mathematische Annalen</em> 391 (2024), 4555–4605.
+<em>Mathematische Annalen</em> 391 (2024), 4555–4605.<br>
+<a href="https://doi.org/10.1007/s00208-024-03033-1">DOI</a> · <a href="https://arxiv.org/abs/2312.01124">arXiv</a>
 </li>
 <li>
 <strong>Geodesic complexity via fibered decompositions of cut loci</strong><br>
 (joint work with Maximilian Stegemeyer)<br>
-<em>Journal of Applied and Computational Topology</em> 7, no. 3 (2023), 397–425.
+<em>Journal of Applied and Computational Topology</em> 7, no. 3 (2023), 397–425.<br>
+<a href="https://doi.org/10.1007/s41468-022-00107-4">DOI</a> · <a href="https://arxiv.org/abs/2206.07691">arXiv</a>
 </li>
 <li>
 <strong>Geodesic complexity of homogeneous Riemannian manifolds</strong><br>
 (joint work with Maximilian Stegemeyer)<br>
-<em>Algebraic & Geometric Topology</em> 23, no. 5 (2023), 2221–2270.
+<em>Algebraic & Geometric Topology</em> 23, no. 5 (2023), 2221–2270.<br>
+<a href="https://doi.org/10.2140/agt.2023.23.2221">DOI</a> · <a href="https://arxiv.org/abs/2105.09215">arXiv</a>
 </li>
 <li>
 <strong>Spherical complexities with applications to closed geodesics</strong><br>
-<em>Algebraic & Geometric Topology</em> 21, no. 2 (2021), 1021–1074.
+<em>Algebraic & Geometric Topology</em> 21, no. 2 (2021), 1021–1074.<br>
+<a href="https://doi.org/10.2140/agt.2021.21.1021">DOI</a> · <a href="https://arxiv.org/abs/1911.03948">arXiv</a>
 </li>
 <li>
 <strong>Existence results for closed geodesics via spherical complexities</strong><br>
-<em>Calculus of Variations and Partial Differential Equations</em> 59, no. 5 (2020), article no. 55.
+<em>Calculus of Variations and Partial Differential Equations</em> 59, no. 5 (2020), article no. 55.<br>
+<a href="https://doi.org/10.1007/s00526-020-01807-4">DOI</a> · <a href="https://arxiv.org/abs/2003.07259">arXiv</a>
 </li>
 <li>
 <strong>On the topological complexity of aspherical spaces</strong><br>
 (joint work with Michael Farber)<br>
-<em>Journal of Topology and Analysis</em> 12, no. 2 (2020), 293–319.
+<em>Journal of Topology and Analysis</em> 12, no. 2 (2020), 293–319.<br>
+<a href="https://doi.org/10.1142/S1793525319500511">DOI</a> · <a href="https://arxiv.org/abs/1708.06732">arXiv</a>
 </li>
 <li>
 <strong>Topological complexity of symplectic manifolds</strong><br>
 (joint work with Mark Grant)<br>
-<em>Mathematische Zeitschrift</em> 295 (2020), 667–679.
+<em>Mathematische Zeitschrift</em> 295 (2020), 667–679.<br>
+<a href="https://doi.org/10.1007/s00209-019-02366-x">DOI</a> · <a href="https://arxiv.org/abs/1802.04746">arXiv</a>
 </li>
 <li>
 <strong>Oriented robot motion planning in Riemannian manifolds</strong><br>
-<em>Topology and its Applications</em> 258 (2019), 1–20.
+<em>Topology and its Applications</em> 258 (2019), 1–20.<br>
+<a href="https://doi.org/10.1016/j.topol.2019.02.047">DOI</a> · <a href="https://arxiv.org/abs/1810.06281">arXiv</a>
 </li>
 </ul>
 
@@ -54,11 +62,13 @@ lang_alternate: /publications/
 <ul class="pub-list">
 <li>
 <strong>Überblickswissen Mathematik – Ein Crashkurs für Studierende anderer Fächer</strong><br>
-Springer Spektrum, Berlin/Heidelberg, 2025.
+Springer Spektrum, Berlin/Heidelberg, 2025.<br>
+<a href="https://doi.org/10.1007/978-3-662-70898-9">DOI</a>
 </li>
 <li>
 <strong>Perturbed Gradient Flow Trees and A-infinity Algebra Structures in Morse Cohomology</strong><br>
-Atlantis Studies in Dynamical Systems, Vol. 6, Atlantis Press (Paris) / Springer, Cham, 2018.
+Atlantis Studies in Dynamical Systems, Vol. 6, Atlantis Press (Paris) / Springer, Cham, 2018.<br>
+<a href="https://doi.org/10.1007/978-3-319-76584-6">DOI</a>
 </li>
 </ul>
 
