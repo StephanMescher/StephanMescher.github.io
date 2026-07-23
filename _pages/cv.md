@@ -3,62 +3,23 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+locale: en
+lang_alternate: /de/lebenslauf/
 ---
 
-{% include base_path %}
+## Professional Positions
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- **since September 2021:** Permanent Research Associate (Wissenschaftlicher Mitarbeiter), Institute of Mathematics, Martin Luther University Halle-Wittenberg, group of Prof. Dr. Nils Waterstraat
+- **October 2017 – August 2021:** Research Associate, Mathematical Institute, Leipzig University, group of Prof. Dr. Matthias Schwarz
+- **October 2016 – September 2017:** Postdoctoral Research Assistant, School of Mathematical Sciences, Queen Mary University of London, group of Prof. Dr. Michael Farber
+- **October 2012 – September 2016:** Research Associate, Faculty of Mathematics, Ruhr University Bochum, group of Prof. Dr. Alberto Abbondandolo
+- **May 2012 – July 2012:** Research Associate, Courant Research Centre "Higher Order Structures in Mathematics", University of Göttingen
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **July 2017:** Dr. rer. nat. in Mathematics, Faculty of Mathematics and Computer Science, Leipzig University (magna cum laude). Dissertation: *Hochschild homology of Morse cochain complexes and free loop spaces*. Advisor: Prof. Dr. Matthias Schwarz.
+- **May 2008 – September 2012:** Doctoral studies, Mathematical Institute, Leipzig University
+- **April 2008:** Diplom in Mathematics (overall grade: very good), Bielefeld University. Thesis: *Der Spektralfluss von Familien selbstadjungierter elliptischer Operatoren*. Advisor: Dr. Kim Frøyshov.
+- **October 2003 – April 2008:** Studies in Mathematics (minor: Computer Science), Bielefeld University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+For a full list of publications and talks, see the [Publications](/publications/) and [Talks](/talks/) pages.

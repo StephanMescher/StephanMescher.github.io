@@ -48,6 +48,52 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
+# German
+# -----------------
+de: &DEFAULT_DE
+  page                       : "Seite"
+  pagination_previous        : "Zurück"
+  pagination_next            : "Weiter"
+  breadcrumb_home_label      : "Startseite"
+  breadcrumb_separator       : "/"
+  toc_label                  : "Auf dieser Seite"
+  ext_link_label             : "Direktlink"
+  less_than                  : "weniger als"
+  minute_read                : "Minute Lesezeit"
+  share_on_label             : "Teilen auf"
+  meta_label                 :
+  tags_label                 : "Schlagworte:"
+  categories_label           : "Kategorien:"
+  date_label                 : "Veröffentlicht:"
+  comments_label             : "Kommentar hinterlassen"
+  comments_title             : "Kommentare"
+  more_label                 : "Mehr erfahren"
+  related_label              : "Das könnte Sie auch interessieren"
+  follow_label                : "Folgen:"
+  feed_label                 : "Feed"
+  powered_by                 : "Erstellt mit"
+  website_label              : "Website"
+  email_label                : "E-Mail"
+  recent_posts               : "Neueste Beiträge"
+  undefined_wpm              : "Parameter words_per_minute ist in der _config.yml nicht definiert"
+  comment_form_info          : "Ihre E-Mail-Adresse wird nicht veröffentlicht. Pflichtfelder sind markiert"
+  comment_form_comment_label : "Kommentar"
+  comment_form_md_info       : "Markdown wird unterstützt."
+  comment_form_name_label    : "Name"
+  comment_form_email_label   : "E-Mail-Adresse"
+  comment_form_website_label : "Website (optional)"
+  comment_btn_submit         : "Kommentar absenden"
+  comment_btn_submitted      : "Abgesendet"
+  comment_success_msg        : "Vielen Dank für Ihren Kommentar! Er wird nach Freigabe auf der Seite angezeigt."
+  comment_error_msg          : "Es ist ein Fehler aufgetreten. Bitte stellen Sie sicher, dass alle Pflichtfelder ausgefüllt sind, und versuchen Sie es erneut."
+  loading_label              : "Lädt..."
+de-DE:
+  <<: *DEFAULT_DE
+de-AT:
+  <<: *DEFAULT_DE
+de-CH:
+  <<: *DEFAULT_DE
+
 # Spanish
 # --------------
 es: &DEFAULT_ES
