@@ -24,10 +24,10 @@ repository               : "StephanMescher/StephanMescher.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Stephan Mescher"
+  name             : "Stephan Mescher"
   # pronouns         : # example: "she/her"
-  bio              : "Mathematician working on geometric and topological methods in the calculus of variations"
-  bio_de           : "Mathematiker mit Schwerpunkt auf geometrischen und topologischen Methoden der Variationsrechnung"
+  bio              : # Short biography for the left-hand sidebar
+  bio_de           : # Short biography for the left-hand sidebar
   location         : "Halle (Saale), Germany"
   employer         : "Martin Luther University Halle-Wittenberg"
   uri              : # URL
