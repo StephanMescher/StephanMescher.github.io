@@ -9,20 +9,28 @@ lang_alternate: /talks/
 
 ## Videos
 
+**Topological Complexity: Introduction and Perspectives I**<br>
+Dutch Differential Topology & Geometry Seminar, 30. Oktober 2020
 <div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/pamKaCnunPM" title="Vortragsvideo 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/pamKaCnunPM" title="Topological Complexity: Introduction and Perspectives I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+**Topological Complexity: Introduction and Perspectives II**<br>
+Dutch Differential Topology & Geometry Seminar, 30. Oktober 2020
 <div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/kjjwxuaKZwE" title="Vortragsvideo 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/kjjwxuaKZwE" title="Topological Complexity: Introduction and Perspectives II" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+**Spherical Complexities and Closed Geodesics**<br>
+BIRS-CMO Online Workshop „Topological Complexity and Motion Planning", 19. September 2020
 <div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/FFwqYQSw1_M" title="Vortragsvideo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/FFwqYQSw1_M" title="Spherical Complexities and Closed Geodesics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+**Geodesic Complexity of Riemannian Manifolds**<br>
+10. März 2022
 <div class="video-wrapper">
-  <iframe src="https://www.youtube.com/embed/yotgBMw0Vpg" title="Vortragsvideo 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/yotgBMw0Vpg" title="Geodesic Complexity of Riemannian Manifolds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## Weitere Vorträge
