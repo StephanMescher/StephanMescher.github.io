@@ -35,13 +35,7 @@ AATRN Topological Complexity Seminar, 10. März 2022
 
 ## Weitere Vorträge
 
-*Dieser Abschnitt befindet sich im Aufbau. Eine Liste von Konferenzvorträgen und Seminarvorträgen wird in Kürze ergänzt.*
-
-**Beispiel-Vortragstitel** *(Platzhalter)*
-Beispiel-Konferenz, Beispiel-Universität — Monat Jahr
-
-**Ein weiterer Beispiel-Vortrag** *(Platzhalter)*
-Oberseminar, Beispiel-Universität — Monat Jahr
+Im Laufe der Jahre habe ich zahlreiche Vorträge über meine Forschung auf verschiedenen Seminaren und Konferenzen gehalten. Wenn Sie sich für einen bestimmten Vortrag oder meine Vortragsfolien interessieren, kontaktieren Sie mich gerne per [E-Mail](mailto:stephan.mescher@mathematik.uni-halle.de).
 
 <style>
 .video-wrapper {
