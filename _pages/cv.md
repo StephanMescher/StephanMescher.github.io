@@ -9,7 +9,7 @@ lang_alternate: /de/lebenslauf/
 
 ## Professional Positions
 
-- **since September 2021:** Permanent Research Associate (Wissenschaftlicher Mitarbeiter), Institute of Mathematics, Martin Luther University Halle-Wittenberg, group of Prof. Dr. [Nils Waterstraat](https://www2.mathematik.uni-halle.de/waterstraat/)
+- **since September 2021:** Permanent Research Associate (Wissenschaftlicher Mitarbeiter), [Institute of Mathematics](https://www.mathematik.uni-halle.de/?lang=en), Martin Luther University Halle-Wittenberg, group of Prof. Dr. [Nils Waterstraat](https://www2.mathematik.uni-halle.de/waterstraat/)
 - **October 2017 – August 2021:** Research Associate, Mathematical Institute, Leipzig University, group of Prof. Dr. Matthias Schwarz
 - **October 2016 – September 2017:** Postdoctoral Research Assistant, School of Mathematical Sciences, Queen Mary University of London, group of Prof. Dr. [Michael Farber](https://www.qmul.ac.uk/maths/profiles/farberm.html)
 - **October 2012 – September 2016:** Research Associate, Faculty of Mathematics, Ruhr University Bochum, group of Prof. Dr. Alberto Abbondandolo

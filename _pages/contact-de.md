@@ -10,7 +10,7 @@ lang_alternate: /contact/
 ## Postanschrift
 
 Martin-Luther-Universität Halle-Wittenberg
-Institut für Mathematik
+[Institut für Mathematik](https://www.mathematik.uni-halle.de/)
 Theodor-Lieser-Straße 5
 06120 Halle (Saale)
 
@@ -20,7 +20,7 @@ Theodor-Lieser-Straße 5
 
 ## Profil am Institut
 
-Angaben zu Büro und aktuellen Sprechstunden finden Sie auf meiner Profilseite am Institut für Mathematik:
+Angaben zu Büro und aktuellen Sprechstunden finden Sie auf meiner Profilseite am [Institut für Mathematik](https://www.mathematik.uni-halle.de/):
 [analysis.mathematik.uni-halle.de/mitarbeiter/stephan_mescher](https://analysis.mathematik.uni-halle.de/mitarbeiter/stephan_mescher/)
 
 Sie finden mich außerdem bei [ORCID](https://orcid.org/0000-0003-3440-2131), [ResearchGate](https://www.researchgate.net/profile/Stephan-Mescher) und den weiteren in der Seitenleiste verlinkten Plattformen.
