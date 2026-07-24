@@ -28,7 +28,7 @@ BIRS-CMO Online Workshop "Topological Complexity and Motion Planning", 19 Septem
 </div>
 
 **Geodesic Complexity of Riemannian Manifolds**<br>
-10 March 2022
+AATRN Topological Complexity Seminar, 10 March 2022
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/yotgBMw0Vpg" title="Geodesic Complexity of Riemannian Manifolds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
