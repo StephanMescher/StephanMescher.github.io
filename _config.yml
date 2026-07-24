@@ -23,7 +23,7 @@ repository               : "StephanMescher/StephanMescher.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Stephan Mescher"
   # pronouns         : # example: "she/her"
   bio              : # Short biography for the left-hand sidebar
@@ -36,13 +36,15 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=IPxDJysAAAAJ"
   # inspire-hep      : # URL
   # impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-3440-2131"
  #  semantic         : # URL
   # ässrn             : # URL
   researchgate     : "https://www.researchgate.net/profile/Stephan-Mescher"
+  mathscinet       : "https://mathscinet.ams.org/mathscinet/MRAuthorID/1270886"
+  zbmath           : "https://zbmath.org/authors/?q=ai:mescher.stephan"
   #scopus           : # URL
  # zotero           : # URL
 
