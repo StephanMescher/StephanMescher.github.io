@@ -11,6 +11,12 @@ lang_alternate: /publications/
 
 <ul class="pub-list">
 <li>
+<strong>Approaches to critical point theory via sequential and parametrized topological complexity</strong><br>
+(joint work with <a href="https://sites.google.com/view/maximilianstegemeyer/home">Maximilian Stegemeyer</a>)<br>
+<em>Topological Methods in Nonlinear Analysis</em>, Online First (2026).<br>
+<a href="https://doi.org/10.12775/TMNA.2025.056">DOI</a> · <a href="https://arxiv.org/abs/2411.01980">arXiv</a>
+</li>
+<li>
 <strong>Sequential topological complexity of aspherical spaces and sectional categories of subgroup inclusions</strong><br>
 (joint work with <a href="https://arturoespinosabaro.github.io/">Arturo Espinosa Baro</a>, <a href="https://www.qmul.ac.uk/maths/profiles/farberm.html">Michael Farber</a> and <a href="https://academic.csuohio.edu/oprea_j/">John Oprea</a>)<br>
 <em>Mathematische Annalen</em> 391 (2024), 4555–4605.<br>
@@ -85,11 +91,6 @@ in: <a href="https://www.qmul.ac.uk/maths/profiles/farberm.html">Michael Farber<
 ## Preprints
 
 <ul class="pub-list">
-<li>
-<strong>Approaches to critical point theory via sequential and parametrized topological complexity</strong><br>
-(joint work with <a href="https://sites.google.com/view/maximilianstegemeyer/home">Maximilian Stegemeyer</a>)<br>
-eingereicht, <a href="https://arxiv.org/abs/2411.01980">arXiv:2411.01980</a>, 2024.
-</li>
 <li>
 <strong>A-infinity algebras and their Hochschild homology</strong><br>
 <a href="https://arxiv.org/abs/1601.03963">arXiv:1601.03963</a>, 2016.
