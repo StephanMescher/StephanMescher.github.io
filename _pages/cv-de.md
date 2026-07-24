@@ -9,9 +9,9 @@ lang_alternate: /cv/
 
 ## Berufliche Stationen
 
-- **seit September 2021:** Wissenschaftlicher Mitarbeiter (unbefristet), Institut für Mathematik, Martin-Luther-Universität Halle-Wittenberg, Arbeitsgruppe von Prof. Dr. Nils Waterstraat
+- **seit September 2021:** Wissenschaftlicher Mitarbeiter (unbefristet), [Institut für Mathematik](https://www.mathematik.uni-halle.de/), Martin-Luther-Universität Halle-Wittenberg, Arbeitsgruppe von Prof. Dr. [Nils Waterstraat](https://www2.mathematik.uni-halle.de/waterstraat/)
 - **Oktober 2017 – August 2021:** Wissenschaftlicher Mitarbeiter, Mathematisches Institut, Universität Leipzig, Arbeitsgruppe von Prof. Dr. Matthias Schwarz
-- **Oktober 2016 – September 2017:** Postdoctoral Research Assistant, School of Mathematical Sciences, Queen Mary University of London, Arbeitsgruppe von Prof. Dr. Michael Farber
+- **Oktober 2016 – September 2017:** Postdoctoral Research Assistant, School of Mathematical Sciences, Queen Mary University of London, Arbeitsgruppe von Prof. Dr. [Michael Farber](https://www.qmul.ac.uk/maths/profiles/farberm.html)
 - **Oktober 2012 – September 2016:** Wissenschaftlicher Mitarbeiter, Fakultät für Mathematik, Ruhr-Universität Bochum, Arbeitsgruppe von Prof. Dr. Alberto Abbondandolo
 - **Mai 2012 – Juli 2012:** Wissenschaftlicher Mitarbeiter, Courant Research Centre "Higher Order Structures in Mathematics", Georg-August-Universität Göttingen
 
