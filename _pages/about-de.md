@@ -7,7 +7,7 @@ locale: de
 lang_alternate: /
 ---
 
-Willkommen auf meiner akademischen Homepage. Ich bin Mathematiker und arbeite als wissenschaftlicher Mitarbeiter am **Institut für Mathematik der Martin-Luther-Universität Halle-Wittenberg**, in der Arbeitsgruppe von Prof. Dr. Nils Waterstraat.
+Willkommen auf meiner akademischen Homepage. Ich bin Mathematiker und arbeite als wissenschaftlicher Mitarbeiter am **Institut für Mathematik der Martin-Luther-Universität Halle-Wittenberg**, in der Arbeitsgruppe von Prof. Dr. [Nils Waterstraat](https://www2.mathematik.uni-halle.de/waterstraat/).
 
 Meine Forschung liegt im Bereich der Geometrie und Topologie von Mannigfaltigkeiten, mit einem Schwerpunkt auf topologischer Komplexität und topologischen Methoden der Variationsrechnung. Mehr zu meiner Arbeit, Lehre und meinen Vorträgen finden Sie über das Menü oben; diese Seite ist auch [auf Englisch](/) verfügbar.
 
