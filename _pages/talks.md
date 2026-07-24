@@ -28,20 +28,14 @@ BIRS-CMO Online Workshop "Topological Complexity and Motion Planning", 19 Septem
 </div>
 
 **Geodesic Complexity of Riemannian Manifolds**<br>
-10 March 2022
+AATRN Topological Complexity Seminar, 10 March 2022
 <div class="video-wrapper">
   <iframe src="https://www.youtube.com/embed/yotgBMw0Vpg" title="Geodesic Complexity of Riemannian Manifolds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ## Other Talks
 
-*This section is under construction. A list of conference talks and seminar presentations will be added here soon.*
-
-**Example Talk Title** *(placeholder)*
-Example Conference, Example University — Month Year
-
-**Another Example Talk** *(placeholder)*
-Oberseminar, Example University — Month Year
+I have given plenty of talks about my research at various seminar and conferences over the years. If you are interested in a particular talk or my slides to a talk, please just contact me via [email](mailto:stephan.mescher@mathematik.uni-halle.de).
 
 <style>
 .video-wrapper {
