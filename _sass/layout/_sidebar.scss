@@ -226,6 +226,10 @@
   position: relative;
   cursor: pointer;
 
+  @include breakpoint($large) {
+    margin-top: 1em;
+  }
+
   li:last-child {
     a {
       margin-bottom: 0;

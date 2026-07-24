@@ -102,7 +102,7 @@ in: <a href="https://www.qmul.ac.uk/maths/profiles/farberm.html">Michael Farber<
 <ul class="pub-list">
 <li>
 <strong>Hochschild homology of Morse cochain complexes and free loop spaces</strong><br>
-PhD thesis, Leipzig University, 909 pp., 2016. Supervisor: Prof. Dr. Matthias Schwarz.
+PhD thesis, Leipzig University, 909 pp., 2016. Supervisor: Prof. Dr. <a href="https://www.math.uni-leipzig.de/~schwarz/">Matthias Schwarz</a>.
 </li>
 <li>
 <strong>Der Spektralfluss selbstadjungierter elliptischer Operatoren</strong><br>
