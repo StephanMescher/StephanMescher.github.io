@@ -77,7 +77,8 @@ Atlantis Studies in Dynamical Systems, Vol. 6, Atlantis Press (Paris) / Springer
 <ul class="pub-list">
 <li>
 <strong>Geometric and topological properties of manifolds in robot motion planning</strong><br>
-in: <a href="https://www.qmul.ac.uk/maths/profiles/farberm.html">Michael Farber</a>, Jesús González (Hrsg.), <em>Topology and AI</em>, EMS Series in Industrial and Applied Mathematics, vol. 4, EMS Press, Berlin, 2024.
+in: <a href="https://www.qmul.ac.uk/maths/profiles/farberm.html">Michael Farber</a>, Jesús González (Hrsg.), <em>Topology and AI</em>, EMS Series in Industrial and Applied Mathematics, vol. 4, EMS Press, Berlin, 2024.<br>
+<a href="https://doi.org/10.4171/esiam/4/5">DOI</a> · <a href="https://arxiv.org/abs/2402.07265">arXiv</a>
 </li>
 </ul>
 
