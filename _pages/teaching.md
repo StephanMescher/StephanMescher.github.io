@@ -9,7 +9,7 @@ lang_alternate: /de/lehre/
 
 *At Halle University, I regularly teach lectures, exercise classes and seminars on various topics in geometry and analysis. More detailed information will follow in due course.*
 
-Starting in the summer term of 2020, I recorded my lectures on video (in an empty lecture hall) for three terms due to the pandemic and made them available on YouTube. Below you can find all links to the videos and materials.
+Starting in the summer term of 2020, I recorded my lectures at Leipzig University on video (in an empty lecture hall) for three terms due to the pandemic and made them available on YouTube. Below you can find all links to the videos and materials.
 
 **Topologie (in German, Summer Term 2020)**<br>
 [YouTube playlist](https://youtube.com/playlist?list=PL73ruzsfdOyIVXCV6ixIzrL2Nto-83Hs9&si=zWGqI0umh39G6COm) · [Lecture Notes](/files/Skript-Mescher-Topologie.pdf)

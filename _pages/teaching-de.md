@@ -9,7 +9,7 @@ lang_alternate: /teaching/
 
 *An der Uni Halle biete ich regelmäßig Vorlesungen, Übungen und Seminare zu verschiedenen Themen der Geometrie und der Analysis an. Genauere Informationen werden bei Gelegenheit folgen.*
 
-Ab dem Sommersemester 2020 habe ich pandemiebedingt drei Semester lang meine Vorlesungen (in einem leeren Hörsaal) auf Video aufgezeichnet und auf YouTube verfügbar gemacht. Im Folgenden finden Sie alle Links zu den Videos und Materialien.
+Ab dem Sommersemester 2020 habe ich pandemiebedingt drei Semester lang meine Vorlesungen an der Universität Leipzig (in einem leeren Hörsaal) auf Video aufgezeichnet und auf YouTube verfügbar gemacht. Im Folgenden finden Sie alle Links zu den Videos und Materialien.
 
 **Topologie (Sommersemester 2020)**<br>
 [YouTube-Playlist](https://youtube.com/playlist?list=PL73ruzsfdOyIVXCV6ixIzrL2Nto-83Hs9&si=zWGqI0umh39G6COm) · [Skript](/files/Skript-Mescher-Topologie.pdf)
