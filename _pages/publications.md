@@ -7,13 +7,23 @@ locale: en
 lang_alternate: /de/publikationen/
 ---
 
+## Preprints
+
+<ul class="pub-list">
+<li>
+<strong>On open covers of aspherical spaces satisfying π<sub>1</sub>-constraints and bounded Adamson cohomology</strong><br>
+(joint work with <a href="https://arturoespinosabaro.github.io/">Arturo Espinosa Baro</a>)<br>
+submitted, <a href="https://arxiv.org/abs/2610.07932">arXiv:2610.07932</a>, 2026.
+</li>
+</ul>
+
 ## Journal Articles
 
 <ul class="pub-list">
 <li>
 <strong>Approaches to critical point theory via sequential and parametrized topological complexity</strong><br>
 (joint work with <a href="https://sites.google.com/view/maximilianstegemeyer/home">Maximilian Stegemeyer</a>)<br>
-<em>Topological Methods in Nonlinear Analysis</em>, Online First (2026).<br>
+<em>Topological Methods in Nonlinear Analysis</em> 67, no. 2 (2026), 357–408.<br>
 <a href="https://doi.org/10.12775/TMNA.2025.056">DOI</a> · <a href="https://arxiv.org/abs/2411.01980">arXiv</a>
 </li>
 <li>
@@ -88,7 +98,7 @@ in: <a href="https://www.qmul.ac.uk/maths/profiles/farberm.html">Michael Farber<
 </li>
 </ul>
 
-## Preprints
+## Other
 
 <ul class="pub-list">
 <li>
