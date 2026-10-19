@@ -13,7 +13,7 @@ lang_alternate: /de/publikationen/
 <li>
 <strong>Approaches to critical point theory via sequential and parametrized topological complexity</strong><br>
 (joint work with <a href="https://sites.google.com/view/maximilianstegemeyer/home">Maximilian Stegemeyer</a>)<br>
-<em>Topological Methods in Nonlinear Analysis</em>, Online First (2026).<br>
+<em>Topological Methods in Nonlinear Analysis</em> 67, no. 2 (2026), 357–408.<br>
 <a href="https://doi.org/10.12775/TMNA.2025.056">DOI</a> · <a href="https://arxiv.org/abs/2411.01980">arXiv</a>
 </li>
 <li>
