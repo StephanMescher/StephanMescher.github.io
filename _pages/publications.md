@@ -7,6 +7,16 @@ locale: en
 lang_alternate: /de/publikationen/
 ---
 
+## Preprints
+
+<ul class="pub-list">
+<li>
+<strong>On open covers of aspherical spaces satisfying π<sub>1</sub>-constraints and bounded Adamson cohomology</strong><br>
+(joint work with <a href="https://arturoespinosabaro.github.io/">Arturo Espinosa Baro</a>)<br>
+submitted, <a href="https://arxiv.org/abs/2610.07932">arXiv:2610.07932</a>, 2026.
+</li>
+</ul>
+
 ## Journal Articles
 
 <ul class="pub-list">
@@ -88,7 +98,7 @@ in: <a href="https://www.qmul.ac.uk/maths/profiles/farberm.html">Michael Farber<
 </li>
 </ul>
 
-## Preprints
+## Other
 
 <ul class="pub-list">
 <li>
